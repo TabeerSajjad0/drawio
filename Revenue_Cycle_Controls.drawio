@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
   <diagram name="Page-1" id="NgPrEiMNLl8JsIz0-KJg">
-    <mxGraphModel dx="968" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="568" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,11 +13,23 @@
         <mxCell id="38Yr3fElNUeRr-3stZc3-30" edge="1" parent="38Yr3fElNUeRr-3stZc3-24" source="38Yr3fElNUeRr-3stZc3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="38Yr3fElNUeRr-3stZc3-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="38Yr3fElNUeRr-3stZc3-28" parent="38Yr3fElNUeRr-3stZc3-24" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Start" vertex="1">
+        <mxCell id="38Yr3fElNUeRr-3stZc3-28" parent="38Yr3fElNUeRr-3stZc3-24" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Start" vertex="1">
           <mxGeometry height="40" width="75" x="102.5" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="38Yr3fElNUeRr-3stZc3-29" parent="38Yr3fElNUeRr-3stZc3-24" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Customer Places Order" vertex="1">
+        <mxCell id="38Yr3fElNUeRr-3stZc3-29" parent="38Yr3fElNUeRr-3stZc3-24" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;" value="Customer Places Order" vertex="1">
           <mxGeometry height="60" width="150" x="65" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="38Yr3fElNUeRr-3stZc3-35" edge="1" parent="38Yr3fElNUeRr-3stZc3-24" source="38Yr3fElNUeRr-3stZc3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="38Yr3fElNUeRr-3stZc3-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38Yr3fElNUeRr-3stZc3-31" parent="38Yr3fElNUeRr-3stZc3-24" style="shape=manualInput;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" value="&lt;br&gt;&lt;br&gt;Order Details Entered into System" vertex="1">
+          <mxGeometry height="70" width="140" x="70" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="38Yr3fElNUeRr-3stZc3-33" edge="1" parent="38Yr3fElNUeRr-3stZc3-24" source="38Yr3fElNUeRr-3stZc3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.49;entryY=0.213;entryDx=0;entryDy=0;entryPerimeter=0;" target="38Yr3fElNUeRr-3stZc3-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38Yr3fElNUeRr-3stZc3-34" parent="38Yr3fElNUeRr-3stZc3-24" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Sales Order Generated" vertex="1">
+          <mxGeometry height="60" width="130" x="75" y="290" as="geometry" />
         </mxCell>
         <mxCell id="38Yr3fElNUeRr-3stZc3-25" parent="38Yr3fElNUeRr-3stZc3-23" style="swimlane;startSize=20;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Warehouse Department" vertex="1">
           <mxGeometry height="1060" width="280" x="280" y="20" as="geometry" />
