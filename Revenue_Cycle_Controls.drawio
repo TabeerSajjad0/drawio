@@ -10,8 +10,14 @@
         <mxCell id="38Yr3fElNUeRr-3stZc3-24" parent="38Yr3fElNUeRr-3stZc3-23" style="swimlane;startSize=20;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Sales Department" vertex="1">
           <mxGeometry height="1060" width="280" y="20" as="geometry" />
         </mxCell>
+        <mxCell id="38Yr3fElNUeRr-3stZc3-30" edge="1" parent="38Yr3fElNUeRr-3stZc3-24" source="38Yr3fElNUeRr-3stZc3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="38Yr3fElNUeRr-3stZc3-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="38Yr3fElNUeRr-3stZc3-28" parent="38Yr3fElNUeRr-3stZc3-24" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Start" vertex="1">
-          <mxGeometry height="40" width="70" x="105" y="40" as="geometry" />
+          <mxGeometry height="40" width="75" x="102.5" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="38Yr3fElNUeRr-3stZc3-29" parent="38Yr3fElNUeRr-3stZc3-24" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Customer Places Order" vertex="1">
+          <mxGeometry height="60" width="150" x="65" y="100" as="geometry" />
         </mxCell>
         <mxCell id="38Yr3fElNUeRr-3stZc3-25" parent="38Yr3fElNUeRr-3stZc3-23" style="swimlane;startSize=20;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Warehouse Department" vertex="1">
           <mxGeometry height="1060" width="280" x="280" y="20" as="geometry" />
