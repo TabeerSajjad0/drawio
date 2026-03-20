@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4" pages="2">
   <diagram name="Page 1" id="NgPrEiMNLl8JsIz0-KJg">
-    <mxGraphModel dx="1814" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2364" dy="1854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6Fj5s0Ba2J56SM9JvV3N-7" parent="38Yr3fElNUeRr-3stZc3-24" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="Credit Check Approved?" vertex="1">
-          <mxGeometry height="100" width="125" x="72.5" y="480" as="geometry" />
+          <mxGeometry height="100" width="127.5" x="70" y="480" as="geometry" />
         </mxCell>
         <mxCell id="c6TUjAAmzZxkvB7UlSyy-1" parent="38Yr3fElNUeRr-3stZc3-24" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Customer Places Order" vertex="1">
           <mxGeometry height="60" width="140" x="70" y="150" as="geometry" />
