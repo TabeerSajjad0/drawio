@@ -67,7 +67,7 @@
           <mxGeometry height="100" width="125" x="72.5" y="480" as="geometry" />
         </mxCell>
         <mxCell id="c6TUjAAmzZxkvB7UlSyy-1" parent="38Yr3fElNUeRr-3stZc3-24" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Customer Places Order" vertex="1">
-          <mxGeometry height="60" width="140" x="70" y="140" as="geometry" />
+          <mxGeometry height="60" width="140" x="70" y="150" as="geometry" />
         </mxCell>
         <mxCell id="c6TUjAAmzZxkvB7UlSyy-3" edge="1" parent="38Yr3fElNUeRr-3stZc3-24" source="c6TUjAAmzZxkvB7UlSyy-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.496;entryY=0.236;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="38Yr3fElNUeRr-3stZc3-31">
           <mxGeometry relative="1" as="geometry" />
