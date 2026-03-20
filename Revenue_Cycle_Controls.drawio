@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4" pages="2">
   <diagram name="Page 1" id="NgPrEiMNLl8JsIz0-KJg">
-    <mxGraphModel dx="1665" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1814" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,11 +156,13 @@
             <mxPoint x="340" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EyxuzqDMpB28Pqf3wMIi-1" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Control&lt;/font&gt;&amp;nbsp;Activity CA-01&lt;br&gt;&lt;br&gt;This control is in place to ensure the customer is able to pay for their order. If they cannot pay their order is rejected, otherwise its approved.&lt;/font&gt;" vertex="1">
-          <mxGeometry height="100" width="230" x="-250" y="420" as="geometry" />
+        <mxCell id="Yx8oV-xRBf_QEBBcCHQ9-3" edge="1" parent="1" source="6Fj5s0Ba2J56SM9JvV3N-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;endArrow=none;endFill=0;" target="cuRJZdmVdLfX7gUa_iPF-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Yx8oV-xRBf_QEBBcCHQ9-3" edge="1" parent="1" source="6Fj5s0Ba2J56SM9JvV3N-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;endArrow=none;endFill=0;" target="EyxuzqDMpB28Pqf3wMIi-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cuRJZdmVdLfX7gUa_iPF-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;background-color: transparent; color: rgb(51, 51, 51); font-size: 9px;&quot;&gt;Control&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: rgb(51, 51, 51); font-size: 9px;&quot;&gt;&amp;nbsp;Activity CA-01&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#333333&quot; size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193)); font-size: 9px; background-color: transparent;&quot;&gt;This control is in place to ensure the customer is able to pay for their order. If they cannot pay their order is rejected, otherwise its approved.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="250" x="-270" y="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
